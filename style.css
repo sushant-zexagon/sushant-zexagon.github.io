@@ -1,0 +1,99 @@
+body {
+    background-image: url('winning.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.heading {
+    background-color: rgba(243, 10, 10, 0.8);
+    padding: 20px;
+    margin: 0;
+}
+
+.heading h1 {
+    color: white;
+    margin: 0px;
+}
+
+.bigtextbox {
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 40%;
+    margin: 30px;
+    margin-top: 80px;
+    padding: 20px;
+    border-radius: 10px;
+    float: left;
+}
+
+.bigtextbox h1 {
+    color: rgb(243, 10, 10)
+}
+
+.bigtextbox h2 {
+    color: rgb(10, 14, 243)
+}
+
+.bigloginbox {
+    background-color: rgba(255, 255, 255, 1);
+    width: 30%;
+    margin: 30px;
+    margin-top: 80px;
+    padding: 20px;
+    border-radius: 10px;
+    float: left;
+}
+
+.bigloginbox h2 {
+    color: rgb(21, 114, 12)
+}
+
+.bigloginbox input {
+    width: 80%;
+    font-size: 30px;
+    padding: 5px;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.bigloginbox input[type='submit'] {
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+    width: 40%;
+    font-size: 26px;
+    padding: 5px;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.bigtextboxresult {
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 80%;
+    margin: 30px;
+    margin-top: 80px;
+    padding: 20px;
+    border-radius: 10px;
+    float: left;
+}
+
+.bigtextboxresult h1 {
+    color: purple;
+}
+
+.bigtextboxresult h2 {
+    color: darkgreen;
+}
+
+.pdfbox {
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.pdfbox iframe {
+    width: 800px;
+    height: 1200px;
+}
